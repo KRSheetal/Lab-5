@@ -16,6 +16,7 @@ let iss_location = {
         },
     "message": "success"
 }
+
 console.log('__________________________') //create some space between each TODO
 
 // TODO Extract the latitude value, and log it to the console.

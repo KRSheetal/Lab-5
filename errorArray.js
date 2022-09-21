@@ -2,6 +2,7 @@ let name = studentName.value
 let gpa = studentGPA.value
 let id = studentID.value
 
+
 let errors = []
 
 if(!name) {

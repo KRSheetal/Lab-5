@@ -1,3 +1,4 @@
+
 let animals = ['lion', 'tiger', 'cheetah']
 
 console.log(animals)

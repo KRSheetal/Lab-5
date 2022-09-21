@@ -26,6 +26,7 @@ if (age >= 30 && usCitizenTime >= 9 && stateWantToRepresent === stateOfResidence
     console.log('Sorry, You are not eligible to be a senator')
 }
 
+
 //falsy values - undefined, null, empty lists, empty objects, 0, false
 if ('' === 0) {
     console.log('the same!')

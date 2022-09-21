@@ -1,5 +1,6 @@
 //Create a user object for your information in your dream job:
 //name, email, password, contact, roles
+
 var user = {
     name: 'Sheetal',
     email: 'sheetal@gmail.com',

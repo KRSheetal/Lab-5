@@ -14,6 +14,7 @@ function f_to_c(f, decimalPlaces) {
         return celsius
     }
 }
+
 let todayTemp = 75
 todayCelsius = f_to_c(todayTemp,3)
 console.log(todayCelsius)

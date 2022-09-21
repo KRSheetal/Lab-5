@@ -10,6 +10,7 @@ console.log(user.password)
 let whatproperty = 'password'
 console.log(user[whatproperty])
 
+
 let userNameProperty = 'username'
 console.log(user[userNameProperty])
 

@@ -8,6 +8,7 @@ function isMinnesotaZip(code) {
     //or  return code >= 55001 && code <= 56763;
 }
 
+
 console.log(isMinnesotaZip('55403'))
 console.log(isMinnesotaZip('56763'))
 console.log(isMinnesotaZip('55891'))

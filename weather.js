@@ -79,6 +79,7 @@ weatherDescriptionArray.forEach(function (weatherDescription){
     descriptions.push(weatherDescription.description)
 })
 
+
 let descriptionsString = descriptions.join(', ')
 console.log('The weather is '+ descriptionsString)
 

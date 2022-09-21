@@ -31,3 +31,4 @@ let classCode = 2560
 let department= 'itec'
 console.log(`This class is ${department.toUpperCase()} ${classCode} ${className}`)
 
+

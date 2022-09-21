@@ -4,6 +4,7 @@ function validgpa(gpa) {
 
 }
 
+
 console.log(validgpa('4'))
 console.log(validgpa('-1'))
 console.log(validgpa('6'))
